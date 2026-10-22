@@ -1,0 +1,5 @@
+rail.config.json
+rail-events.jsonl*
+usage-cache.json
+*.railbak
+*.bak

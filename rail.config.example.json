@@ -1,0 +1,26 @@
+{
+  "claudeHome": "",
+  "launchCmd": "claude",
+  "widthTarget": 38,
+  "usageRefreshSec": 180,
+  "liveWindowMin": 30,
+  "watchFile": "",
+  "watchLabel": "watch",
+  "infraRecencyMin": 15,
+  "vercelAccountsFile": "",
+  "projects": [
+    {
+      "key": "1",
+      "name": "web-app",
+      "short": "web",
+      "path": "%USERPROFILE%\\code\\web-app",
+      "vercel": "my-team"
+    },
+    {
+      "key": "2",
+      "name": "api-server",
+      "short": "api",
+      "path": "%USERPROFILE%\\code\\api-server"
+    }
+  ]
+}
